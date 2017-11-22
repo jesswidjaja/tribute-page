@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Frank Ruhl Libre|Playfair Display');
+
+body{
+  margin-top: 60px;
+  font-family: Frank Ruhl Libre;
+}
+.tan-background{
+  background-color: #DEB887;
+}
+.tan-border{
+    border-color: #DEB887; 
+    border-width: 5px;
+    border-style: solid;
+}
